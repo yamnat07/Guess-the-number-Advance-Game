@@ -61,7 +61,7 @@ Only valid guesses count as attempts. Guesses that are not numbers, or are outsi
 ## How to Run
 
 ```bash
-python guess-the-number.py
+python guess-the-number-adv.py
 ```
 
 On some systems you may need to use `python3` instead of `python`.
