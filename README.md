@@ -118,7 +118,7 @@ The date is in `DD-MM-YYYY` format, and the time is in 12-hour format with AM/PM
 ## Project Structure
 
 ```
-guess-the-number.py   # the whole game
+guess-the-number-adv.py   # the whole game
 scores.txt            # created automatically when you save a score
 README.md
 ```
